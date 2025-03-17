@@ -37,7 +37,6 @@ namespace maioroumenorquedez
             }
             else
             {
-                // Se a conversão falhar, exibe uma mensagem de erro
                 MessageBox.Show("Por favor, insira um número válido.");
             }
         }
