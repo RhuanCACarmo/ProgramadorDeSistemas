@@ -1,5 +1,4 @@
 C:\Users\rhuan.cacarmo\source\repos\maioroumenorquedez\obj\Debug\maioroumenorquedez.csproj.AssemblyReference.cache
-C:\Users\rhuan.cacarmo\source\repos\maioroumenorquedez\obj\Debug\maioroumenorquedez.Form1.resources
 C:\Users\rhuan.cacarmo\source\repos\maioroumenorquedez\obj\Debug\maioroumenorquedez.Properties.Resources.resources
 C:\Users\rhuan.cacarmo\source\repos\maioroumenorquedez\obj\Debug\maioroumenorquedez.csproj.GenerateResource.cache
 C:\Users\rhuan.cacarmo\source\repos\maioroumenorquedez\obj\Debug\maioroumenorquedez.csproj.CoreCompileInputs.cache
@@ -8,3 +7,4 @@ C:\Users\rhuan.cacarmo\source\repos\maioroumenorquedez\bin\Debug\maioroumenorque
 C:\Users\rhuan.cacarmo\source\repos\maioroumenorquedez\bin\Debug\maioroumenorquedez.pdb
 C:\Users\rhuan.cacarmo\source\repos\maioroumenorquedez\obj\Debug\maioroumenorquedez.exe
 C:\Users\rhuan.cacarmo\source\repos\maioroumenorquedez\obj\Debug\maioroumenorquedez.pdb
+C:\Users\rhuan.cacarmo\source\repos\maioroumenorquedez\obj\Debug\maioroumenorquedez.frmMaiorOuMenor.resources

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35731.53
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jogodenumeros", "jogodenumeros.csproj", "{49EA8085-42DC-4F90-8915-E4C65549C11E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49EA8085-42DC-4F90-8915-E4C65549C11E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49EA8085-42DC-4F90-8915-E4C65549C11E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49EA8085-42DC-4F90-8915-E4C65549C11E}.Debug|x64.ActiveCfg = Debug|x64
+		{49EA8085-42DC-4F90-8915-E4C65549C11E}.Debug|x64.Build.0 = Debug|x64
+		{49EA8085-42DC-4F90-8915-E4C65549C11E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49EA8085-42DC-4F90-8915-E4C65549C11E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49EA8085-42DC-4F90-8915-E4C65549C11E}.Release|x64.ActiveCfg = Release|x64
+		{49EA8085-42DC-4F90-8915-E4C65549C11E}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31FEBBBB-5913-4F47-A8C9-B655DB667806}
+	EndGlobalSection
+EndGlobal

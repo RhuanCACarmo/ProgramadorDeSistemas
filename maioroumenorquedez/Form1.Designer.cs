@@ -35,7 +35,7 @@ namespace maioroumenorquedez
             // 
             // txtMaiorOuMenorQue
             // 
-            this.txtMaiorOuMenorQue.Location = new System.Drawing.Point(103, 64);
+            this.txtMaiorOuMenorQue.Location = new System.Drawing.Point(113, 64);
             this.txtMaiorOuMenorQue.Name = "txtMaiorOuMenorQue";
             this.txtMaiorOuMenorQue.Size = new System.Drawing.Size(96, 20);
             this.txtMaiorOuMenorQue.TabIndex = 0;
@@ -45,7 +45,7 @@ namespace maioroumenorquedez
             // bntVerificar
             // 
             this.bntVerificar.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.bntVerificar.Location = new System.Drawing.Point(113, 125);
+            this.bntVerificar.Location = new System.Drawing.Point(124, 123);
             this.bntVerificar.Name = "bntVerificar";
             this.bntVerificar.Size = new System.Drawing.Size(75, 23);
             this.bntVerificar.TabIndex = 2;
