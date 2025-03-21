@@ -1,0 +1,10 @@
+C:\Users\King\source\repos\sistemadecalculodedesconto\sistemadecalculodedesconto\obj\Debug\sistemadecalculodedesconto.csproj.AssemblyReference.cache
+C:\Users\King\source\repos\sistemadecalculodedesconto\sistemadecalculodedesconto\obj\Debug\sistemadecalculodedesconto.Form1.resources
+C:\Users\King\source\repos\sistemadecalculodedesconto\sistemadecalculodedesconto\obj\Debug\sistemadecalculodedesconto.Properties.Resources.resources
+C:\Users\King\source\repos\sistemadecalculodedesconto\sistemadecalculodedesconto\obj\Debug\sistemadecalculodedesconto.csproj.GenerateResource.cache
+C:\Users\King\source\repos\sistemadecalculodedesconto\sistemadecalculodedesconto\obj\Debug\sistemadecalculodedesconto.csproj.CoreCompileInputs.cache
+C:\Users\King\source\repos\sistemadecalculodedesconto\sistemadecalculodedesconto\bin\Debug\sistemadecalculodedesconto.exe.config
+C:\Users\King\source\repos\sistemadecalculodedesconto\sistemadecalculodedesconto\bin\Debug\sistemadecalculodedesconto.exe
+C:\Users\King\source\repos\sistemadecalculodedesconto\sistemadecalculodedesconto\bin\Debug\sistemadecalculodedesconto.pdb
+C:\Users\King\source\repos\sistemadecalculodedesconto\sistemadecalculodedesconto\obj\Debug\sistemadecalculodedesconto.exe
+C:\Users\King\source\repos\sistemadecalculodedesconto\sistemadecalculodedesconto\obj\Debug\sistemadecalculodedesconto.pdb
