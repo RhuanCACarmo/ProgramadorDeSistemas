@@ -29,15 +29,15 @@
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
-            this.panel2 = new System.Windows.Forms.Panel();
             this.lblSistemaDeCalculo = new System.Windows.Forms.Label();
-            this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
-            this.btnCalcular = new System.Windows.Forms.Button();
-            this.txtValorDeCompra = new System.Windows.Forms.TextBox();
-            this.txtDesconto = new System.Windows.Forms.TextBox();
+            this.panel2 = new System.Windows.Forms.Panel();
             this.lblResultado = new System.Windows.Forms.Label();
+            this.txtDesconto = new System.Windows.Forms.TextBox();
+            this.txtValorDeCompra = new System.Windows.Forms.TextBox();
+            this.btnCalcular = new System.Windows.Forms.Button();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             this.SuspendLayout();
@@ -51,6 +51,18 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(800, 100);
             this.panel1.TabIndex = 0;
+            // 
+            // lblSistemaDeCalculo
+            // 
+            this.lblSistemaDeCalculo.AutoSize = true;
+            this.lblSistemaDeCalculo.BackColor = System.Drawing.Color.Transparent;
+            this.lblSistemaDeCalculo.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblSistemaDeCalculo.ForeColor = System.Drawing.Color.White;
+            this.lblSistemaDeCalculo.Location = new System.Drawing.Point(102, 31);
+            this.lblSistemaDeCalculo.Name = "lblSistemaDeCalculo";
+            this.lblSistemaDeCalculo.Size = new System.Drawing.Size(614, 37);
+            this.lblSistemaDeCalculo.TabIndex = 0;
+            this.lblSistemaDeCalculo.Text = "SISTEMA DE CÁLCULO DE DESCONTO";
             // 
             // panel2
             // 
@@ -67,54 +79,29 @@
             this.panel2.Size = new System.Drawing.Size(800, 268);
             this.panel2.TabIndex = 1;
             // 
-            // lblSistemaDeCalculo
+            // lblResultado
             // 
-            this.lblSistemaDeCalculo.AutoSize = true;
-            this.lblSistemaDeCalculo.BackColor = System.Drawing.Color.Transparent;
-            this.lblSistemaDeCalculo.Font = new System.Drawing.Font("Nirmala Text", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblSistemaDeCalculo.ForeColor = System.Drawing.Color.White;
-            this.lblSistemaDeCalculo.Location = new System.Drawing.Point(126, 32);
-            this.lblSistemaDeCalculo.Name = "lblSistemaDeCalculo";
-            this.lblSistemaDeCalculo.Size = new System.Drawing.Size(556, 45);
-            this.lblSistemaDeCalculo.TabIndex = 0;
-            this.lblSistemaDeCalculo.Text = "SISTEMA DE CÁLCULO DE DESCONTO";
+            this.lblResultado.AutoSize = true;
+            this.lblResultado.BackColor = System.Drawing.Color.White;
+            this.lblResultado.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblResultado.Location = new System.Drawing.Point(597, 147);
+            this.lblResultado.Name = "lblResultado";
+            this.lblResultado.Size = new System.Drawing.Size(0, 20);
+            this.lblResultado.TabIndex = 12;
             // 
-            // label1
+            // txtDesconto
             // 
-            this.label1.AutoSize = true;
-            this.label1.BackColor = System.Drawing.Color.Transparent;
-            this.label1.Font = new System.Drawing.Font("Nirmala Text", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(12, 37);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(369, 45);
-            this.label1.TabIndex = 1;
-            this.label1.Text = "Insira o valor da compra:";
+            this.txtDesconto.Location = new System.Drawing.Point(399, 97);
+            this.txtDesconto.Name = "txtDesconto";
+            this.txtDesconto.Size = new System.Drawing.Size(100, 20);
+            this.txtDesconto.TabIndex = 11;
             // 
-            // label2
+            // txtValorDeCompra
             // 
-            this.label2.AutoSize = true;
-            this.label2.BackColor = System.Drawing.Color.Transparent;
-            this.label2.Font = new System.Drawing.Font("Nirmala Text", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.ForeColor = System.Drawing.Color.White;
-            this.label2.Location = new System.Drawing.Point(12, 82);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(394, 45);
-            this.label2.TabIndex = 2;
-            this.label2.Text = "Insira o valor de desconto:";
-            this.label2.Click += new System.EventHandler(this.label2_Click);
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.BackColor = System.Drawing.Color.Transparent;
-            this.label3.Font = new System.Drawing.Font("Nirmala Text", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.ForeColor = System.Drawing.Color.White;
-            this.label3.Location = new System.Drawing.Point(12, 127);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(594, 45);
-            this.label3.TabIndex = 3;
-            this.label3.Text = "Resultado da compra com desconto R$: ";
+            this.txtValorDeCompra.Location = new System.Drawing.Point(378, 52);
+            this.txtValorDeCompra.Name = "txtValorDeCompra";
+            this.txtValorDeCompra.Size = new System.Drawing.Size(100, 20);
+            this.txtValorDeCompra.TabIndex = 10;
             // 
             // btnCalcular
             // 
@@ -128,29 +115,42 @@
             this.btnCalcular.UseVisualStyleBackColor = false;
             this.btnCalcular.Click += new System.EventHandler(this.btnCalcular_Click);
             // 
-            // txtValorDeCompra
+            // label3
             // 
-            this.txtValorDeCompra.Location = new System.Drawing.Point(378, 59);
-            this.txtValorDeCompra.Name = "txtValorDeCompra";
-            this.txtValorDeCompra.Size = new System.Drawing.Size(100, 20);
-            this.txtValorDeCompra.TabIndex = 10;
+            this.label3.AutoSize = true;
+            this.label3.BackColor = System.Drawing.Color.Transparent;
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.ForeColor = System.Drawing.Color.White;
+            this.label3.Location = new System.Drawing.Point(12, 134);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(598, 37);
+            this.label3.TabIndex = 3;
+            this.label3.Text = "Resultado da compra com desconto R$: ";
             // 
-            // txtDesconto
+            // label2
             // 
-            this.txtDesconto.Location = new System.Drawing.Point(400, 104);
-            this.txtDesconto.Name = "txtDesconto";
-            this.txtDesconto.Size = new System.Drawing.Size(100, 20);
-            this.txtDesconto.TabIndex = 11;
+            this.label2.AutoSize = true;
+            this.label2.BackColor = System.Drawing.Color.Transparent;
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.ForeColor = System.Drawing.Color.White;
+            this.label2.Location = new System.Drawing.Point(12, 82);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(392, 37);
+            this.label2.TabIndex = 2;
+            this.label2.Text = "Insira o valor de desconto:";
+            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
-            // lblResultado
+            // label1
             // 
-            this.lblResultado.AutoSize = true;
-            this.lblResultado.BackColor = System.Drawing.Color.White;
-            this.lblResultado.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblResultado.Location = new System.Drawing.Point(597, 147);
-            this.lblResultado.Name = "lblResultado";
-            this.lblResultado.Size = new System.Drawing.Size(0, 20);
-            this.lblResultado.TabIndex = 12;
+            this.label1.AutoSize = true;
+            this.label1.BackColor = System.Drawing.Color.Transparent;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.ForeColor = System.Drawing.Color.White;
+            this.label1.Location = new System.Drawing.Point(12, 37);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(371, 37);
+            this.label1.TabIndex = 1;
+            this.label1.Text = "Insira o valor da compra:";
             // 
             // Form1
             // 
