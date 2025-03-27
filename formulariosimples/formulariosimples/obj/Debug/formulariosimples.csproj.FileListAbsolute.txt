@@ -1,0 +1,10 @@
+C:\Users\rhuan.cacarmo\source\ProgramadorDeSistemas\formulariosimples\formulariosimples\bin\Debug\formulariosimples.exe.config
+C:\Users\rhuan.cacarmo\source\ProgramadorDeSistemas\formulariosimples\formulariosimples\bin\Debug\formulariosimples.exe
+C:\Users\rhuan.cacarmo\source\ProgramadorDeSistemas\formulariosimples\formulariosimples\bin\Debug\formulariosimples.pdb
+C:\Users\rhuan.cacarmo\source\ProgramadorDeSistemas\formulariosimples\formulariosimples\obj\Debug\formulariosimples.csproj.AssemblyReference.cache
+C:\Users\rhuan.cacarmo\source\ProgramadorDeSistemas\formulariosimples\formulariosimples\obj\Debug\formulariosimples.Properties.Resources.resources
+C:\Users\rhuan.cacarmo\source\ProgramadorDeSistemas\formulariosimples\formulariosimples\obj\Debug\formulariosimples.csproj.GenerateResource.cache
+C:\Users\rhuan.cacarmo\source\ProgramadorDeSistemas\formulariosimples\formulariosimples\obj\Debug\formulariosimples.csproj.CoreCompileInputs.cache
+C:\Users\rhuan.cacarmo\source\ProgramadorDeSistemas\formulariosimples\formulariosimples\obj\Debug\formulariosimples.exe
+C:\Users\rhuan.cacarmo\source\ProgramadorDeSistemas\formulariosimples\formulariosimples\obj\Debug\formulariosimples.pdb
+C:\Users\rhuan.cacarmo\source\ProgramadorDeSistemas\formulariosimples\formulariosimples\obj\Debug\formulariosimples.frmFormularioSimples.resources

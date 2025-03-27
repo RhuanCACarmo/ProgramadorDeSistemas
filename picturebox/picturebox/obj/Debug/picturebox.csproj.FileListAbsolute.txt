@@ -1,0 +1,10 @@
+C:\Users\rhuan.cacarmo\source\repos\ProgramadorDeSistemas\picturebox\picturebox\bin\Debug\picturebox.exe.config
+C:\Users\rhuan.cacarmo\source\repos\ProgramadorDeSistemas\picturebox\picturebox\bin\Debug\picturebox.exe
+C:\Users\rhuan.cacarmo\source\repos\ProgramadorDeSistemas\picturebox\picturebox\bin\Debug\picturebox.pdb
+C:\Users\rhuan.cacarmo\source\repos\ProgramadorDeSistemas\picturebox\picturebox\obj\Debug\picturebox.csproj.AssemblyReference.cache
+C:\Users\rhuan.cacarmo\source\repos\ProgramadorDeSistemas\picturebox\picturebox\obj\Debug\picturebox.frmPictureBox.resources
+C:\Users\rhuan.cacarmo\source\repos\ProgramadorDeSistemas\picturebox\picturebox\obj\Debug\picturebox.Properties.Resources.resources
+C:\Users\rhuan.cacarmo\source\repos\ProgramadorDeSistemas\picturebox\picturebox\obj\Debug\picturebox.csproj.GenerateResource.cache
+C:\Users\rhuan.cacarmo\source\repos\ProgramadorDeSistemas\picturebox\picturebox\obj\Debug\picturebox.csproj.CoreCompileInputs.cache
+C:\Users\rhuan.cacarmo\source\repos\ProgramadorDeSistemas\picturebox\picturebox\obj\Debug\picturebox.exe
+C:\Users\rhuan.cacarmo\source\repos\ProgramadorDeSistemas\picturebox\picturebox\obj\Debug\picturebox.pdb
